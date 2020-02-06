@@ -1,3 +1,7 @@
+body { 
+    background-image: url("tuna.jpg");
+    background-repeat: repeat;
+}
 .center {
     display: block;
     margin-left: auto;
