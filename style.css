@@ -1,7 +1,7 @@
 body {
-  background-image: url("tuna.jpg");
+  background-image: url("./assets/tuna.jpg");
   background-repeat: repeat;
-  cursor: url("cursor.png"), auto;
+  cursor: url("./assets/cursor.png"), auto;
 }
 .center {
   display: block;
